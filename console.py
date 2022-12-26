@@ -5,10 +5,6 @@ import cmd
 import json
 import re
 
-import models
-from models import BaseModel, User, State, \
-    City, Amenity, Place, Review
-
 
 def isfloat(s):
     '''Checks if a string is a decimal'''
