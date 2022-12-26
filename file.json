@@ -1,0 +1,104 @@
+{
+    "User.4a4266c2-9a4c-42df-a423-65a377a4b2e3": {
+        "id": "4a4266c2-9a4c-42df-a423-65a377a4b2e3",
+        "created_at": "2022-09-02T17:48:45.723755",
+        "updated_at": "2022-09-05T11:35:58.101359",
+        "first_name": "John",
+        "age": 89,
+        "__class__": "User"
+    },
+    "BaseModel.1c9a86df-6e01-4d10-bf42-7809b747ac7c": {
+        "id": "1c9a86df-6e01-4d10-bf42-7809b747ac7c",
+        "created_at": "2022-09-02T17:48:51.516918",
+        "updated_at": "2022-09-05T11:35:58.101400",
+        "__class__": "BaseModel"
+    },
+    "User.438e4879-79c2-42a9-991c-657750267442": {
+        "id": "438e4879-79c2-42a9-991c-657750267442",
+        "created_at": "2022-09-02T17:48:55.635167",
+        "updated_at": "2022-09-05T11:35:58.101432",
+        "__class__": "User"
+    },
+    "BaseModel.c002e673-474e-47b6-9e2b-0b19bcb87ffb": {
+        "id": "c002e673-474e-47b6-9e2b-0b19bcb87ffb",
+        "created_at": "2022-09-02T17:49:53.433699",
+        "updated_at": "2022-09-05T11:35:58.101462",
+        "__class__": "BaseModel"
+    },
+    "Place.32d74e15-023f-4edb-8066-80a11aa6b39f": {
+        "id": "32d74e15-023f-4edb-8066-80a11aa6b39f",
+        "created_at": "2022-09-03T21:57:11.355365",
+        "updated_at": "2022-09-05T11:35:58.101492",
+        "first_name": "Franklin",
+        "__class__": "Place"
+    },
+    "BaseModel.bf1d76d1-ddc2-426b-a3be-5ad061dcd91a": {
+        "id": "bf1d76d1-ddc2-426b-a3be-5ad061dcd91a",
+        "created_at": "2022-09-03T21:57:28.298178",
+        "updated_at": "2022-09-05T11:35:58.101521",
+        "first_name": "Obasi",
+        "__class__": "BaseModel"
+    },
+    "Place.b4fba9da-e511-43b3-ad42-bf3b3b5e5d2e": {
+        "id": "b4fba9da-e511-43b3-ad42-bf3b3b5e5d2e",
+        "created_at": "2022-09-04T22:25:19.561493",
+        "updated_at": "2022-09-05T11:35:58.101549",
+        "first_name": "Frank",
+        "__class__": "Place"
+    },
+    "BaseModel.f7c576b7-cd89-4aec-ae9a-0038d2e0938f": {
+        "id": "f7c576b7-cd89-4aec-ae9a-0038d2e0938f",
+        "created_at": "2022-09-04T22:26:00.082381",
+        "updated_at": "2022-09-05T11:35:58.102745",
+        "first_name": "Mee",
+        "__class__": "BaseModel"
+    },
+    "User.9b843f1b-0eba-4288-b0bd-d5f618759991": {
+        "id": "9b843f1b-0eba-4288-b0bd-d5f618759991",
+        "created_at": "2022-09-05T10:47:54.637560",
+        "updated_at": "2022-09-05T11:35:58.103007",
+        "__class__": "User"
+    },
+    "BaseModel.d150941d-5ece-48b5-820a-807c62e66662": {
+        "id": "d150941d-5ece-48b5-820a-807c62e66662",
+        "created_at": "2022-09-05T11:35:58.098018",
+        "updated_at": "2022-09-05T11:35:58.103062",
+        "__class__": "BaseModel"
+    },
+    "BaseModel.e6579741-e237-4130-b0f1-118c57994099": {
+        "id": "e6579741-e237-4130-b0f1-118c57994099",
+        "created_at": "2022-09-05T11:35:58.099892",
+        "updated_at": "2022-09-05T11:35:58.103099",
+        "__class__": "BaseModel"
+    },
+    "BaseModel.3efa25ba-38a5-4527-be09-bd455b99cb48": {
+        "id": "3efa25ba-38a5-4527-be09-bd455b99cb48",
+        "created_at": "2022-09-05T11:35:58.100253",
+        "updated_at": "2022-09-05T17:23:13.091913",
+        "account_bal": 9999999999999,
+        "first_name": "Joan",
+        "age": 20,
+        "__class__": "BaseModel"
+    },
+    "BaseModel.89c7e2a5-4b9f-421b-a842-8552b6e6a54e": {
+        "id": "89c7e2a5-4b9f-421b-a842-8552b6e6a54e",
+        "created_at": "2022-09-05T11:35:58.100696",
+        "updated_at": "2022-09-05T11:35:58.103174",
+        "name": "My_First_Model",
+        "my_number": 89,
+        "__class__": "BaseModel"
+    },
+    "BaseModel.d7d347be-0cd7-4f27-8c0a-842552fa9c36": {
+        "id": "d7d347be-0cd7-4f27-8c0a-842552fa9c36",
+        "created_at": "2022-09-05T11:35:58.101278",
+        "updated_at": "2022-09-05T11:35:58.104779",
+        "__class__": "BaseModel"
+    },
+    "Place.aaa2a2c0-9001-4ef6-b532-720283fed936": {
+        "id": "aaa2a2c0-9001-4ef6-b532-720283fed936",
+        "created_at": "2022-09-05T17:32:46.106125",
+        "updated_at": "2022-09-05T18:22:16.250105",
+        "latitude": 7.2,
+        "__class__": "Place"
+    }
+}
